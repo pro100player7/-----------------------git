@@ -2,13 +2,13 @@
 
 ![git-logo](./assets/img/git.png)
 
-### Cодержание
+### Оглавление
 ---
 1. Что такое git?
 2. Основные команды для работы с git
-   1. **git clone**
-   2. **git init**
-   3. **git remote**
+   1. **[git clone](./git%20clone.md)**
+   2. **[git init](./git%20init.md)**
+   3. **[git remote](./git%20remote.md)**
    4. **git status**
    5. **git add**
    6. **git commit**
@@ -16,4 +16,4 @@
    8. **Создание веток**
    9. **Слияние веток**
    10. **Удаление веток**
-3. Решение конфликтов git# -git
+3. Решение конфликтов git
