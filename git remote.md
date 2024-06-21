@@ -10,4 +10,4 @@
 ```
 git remote add https://github.com/pro100player7/-git.git
 ```
-[<<< вернуться](./readme.md) &nbsp;&nbsp;&nbsp;&nbsp;[следующий>>>](./git%20remote.md)
+[<<< вернуться](./readme.md) &nbsp;&nbsp;&nbsp;&nbsp;[следующий>>>](./git%20status.md)
